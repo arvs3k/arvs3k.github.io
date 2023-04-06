@@ -1,4 +1,4 @@
-# Aravindh Chandrasekar's Project Portfolio
+# [Aravindh Chandrasekar's Project Portfolio](https://github.com/arvs3k)
 ## [Project 1: Bank Customer Churn - Project Overview](https://github.com/arvs3k/Customer-churn)
 1. Identify and visually represent the factors that contribute to customer churn.
 2. Develop a prediction model that can classify if a customer is likely to churn or not.
