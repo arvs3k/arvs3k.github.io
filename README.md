@@ -15,3 +15,8 @@
 ![image](https://user-images.githubusercontent.com/110792339/230479538-9c621a89-4275-4a18-8701-ade0ea86160a.png)
 
 ## Project 3: Global Development Initiative
+* This database includes commitment information for over 1.5 million development finance activities funded between 1947 and 2013, covers 96 donors, and includes ODA, OOF flows, Equity Investments, and Export Credits where available.
+* Analyzed how donations changed over time between 1947 and 2013.
+* Examined how the identity of the donor and recipient is linked to the geographic location of each country.
+* Created a visual representation to compare the amount of donations and receipts of each country, with the aim of identifying whether there are any nations that donate significantly more than they receive, or vice versa using R.
+* To summarize, we found that the geographic regions play an important role in whether a country is a Donor or a Recipient. The total amount of donations in various time periods were analyzed and found that the donations peaked in 1992 for various development projects such as Rescheduling and Refinancing, Import Support, Industrial Development. The Geographical distribution of Donors and Recipients were plotted to visualize the total amount spent and received by various regions. We also noticed that each country focuses different areas to develop, for example, the United States focuses primarily on Air Transport among other developments.
