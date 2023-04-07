@@ -7,6 +7,12 @@
 
 ![image](https://user-images.githubusercontent.com/110792339/230479976-3c97c2f4-4c31-4c1e-a859-e482ef694c03.png)
 
+Based on the results obtained, my primary objective is to accurately predict customers who are likely to churn, so that appropriate measures can be implemented to prevent churn. The recall measure for the positive class (churned customers) is more important to me than the overall accuracy score of the model.
+
+Given that only 20% of the data represents churned customers, achieving a recall higher than this baseline would already be an improvement. However, I aim to achieve the highest possible recall while maintaining a high precision, so that the bank can effectively allocate its resources towards customers identified by the model without wasting resources on false positives.
+
+Upon reviewing the fitted models, it appears that the random forest model performs the best in terms of achieving a balance between recall and precision. With a precision score of 0.88 on the positive class (churned customers) based on the training set, the model correctly identifies 88% of customers predicted to churn, and with a recall score of 0.53 on the positive class, the model is able to highlight 53% of all actual churned customers.
+
 ## [Project 2: Stress, Anxiety & Depression Prediction - Project Overview](https://github.com/arvs3k/Stress-Anxiety-Depression)
 * This research focused on detecting anxiety, depression and stress using the Depression, Anxiety and Stress Scale questionnaire. Data were collected from a total of 39775 participants via data hosted on OpenPsychometrics.org a nonprofit effort to educate the public about psychology and to collect data for psychological research. Their notes on the data collected in the codebook.txt and subsequently classified using five machine learning algorithms – namely Decision Tree, Random Forest Tree, Naïve Bayes, Support Vector Machine and KNN.
 * Engineered features by cleaning different majors, religion, status of people participated in the survey.
