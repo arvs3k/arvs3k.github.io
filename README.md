@@ -25,10 +25,13 @@ Upon reviewing the fitted models, it appears that the random forest model perfor
 * Analyzed how donations changed over time between 1947 and 2013.
 * Examined how the identity of the donor and recipient is linked to the geographic location of each country.
 * Created a visual representation to compare the amount of donations and receipts of each country, with the aim of identifying whether there are any nations that donate significantly more than they receive, or vice versa using R.
-* In summary, our analysis revealed that geographic regions are a significant factor in determining a country's role as a donor or recipient. We examined the total amount of donations made during different time periods and discovered that the highest amount of donations occurred in 1992 for several development projects, including Rescheduling and Refinancing, Import Support, and Industrial Development. To better understand the distribution of donors and recipients, we plotted the geographic regions and the total amount of money spent and received by each. Additionally, we observed that each country has a unique focus on different areas of development. For instance, the United States places significant emphasis on Air Transport, among other areas.
 
 ![image](https://user-images.githubusercontent.com/110792339/230484527-7a30d519-e67e-4e63-a9a1-e69275d7001f.png)
 
 ![image](https://user-images.githubusercontent.com/110792339/230484665-8cd3cd44-2667-4ccc-a479-f235645ff911.png)
 
 ![image](https://user-images.githubusercontent.com/110792339/230484744-afe7f082-3f45-4e84-b84e-fde16a31b1d3.png)
+
+Our analysis indicates that the geographical location of a country plays a crucial role in determining whether it is a donor or a recipient of aid. We examined the total amount of donations made over various time periods and found that the highest amount of donations occurred in 1992 for several development projects, such as Rescheduling and Refinancing, Import Support, and Industrial Development. This highlights the significance of time in understanding the flow of aid to different regions.
+
+To gain a better understanding of the distribution of donors and recipients, we created a visualization of the regions and the total amount of money spent and received by each country. Our analysis showed that each country has a unique focus on different areas of development. For instance, the United States places significant emphasis on Air Transport, among other sectors. These findings emphasize the need for tailored approaches to development that take into account the specific priorities and challenges of each region and country.
