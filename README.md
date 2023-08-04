@@ -17,7 +17,7 @@ Upon reviewing the fitted models, it appears that the random forest model perfor
 ![image](https://github.com/arvs3k/arvs3k.github.io/blob/main/Netflix%20Sales%20Dashboard.png)
 
 ## [Project 3: Stress, Anxiety & Depression Prediction - Project Overview](https://github.com/arvs3k/Stress-Anxiety-Depression)
-* This research focused on detecting anxiety, depression and stress using the Depression, Anxiety and Stress Scale questionnaire. Data were collected from a total of 39775 participants via data hosted on OpenPsychometrics.org a nonprofit effort to educate the public about psychology and to collect data for psychological research. Their notes on the data collected in the codebook.txt and subsequently classified using five machine learning algorithms – namely Decision Tree, Random Forest Tree, Naïve Bayes, Support Vector Machine and KNN.
+* This research focused on detecting anxiety, depression and stress using the Depression, Anxiety and Stress Scale questionnaire. Data were collected from a total of 39775 participants via data hosted on OpenPsychometrics.org a nonprofit effort to educate the public about psychology and to collect data for psychological research. Their notes on the data collected in the codebook.txt and subsequently classified using five machine learning algorithms – namely Decision Tree, Random Forest Tree, Naïve Bayes, Support Vector Machine and KNN. 
 * Engineered features by cleaning different majors, religion, status of people participated in the survey.
 * The f1 score measure was added, which helped identify the best accuracy model among the five applied algorithms as the Random Forest classifier. Furthermore, the specificity parameter revealed that the algorithms were also especially sensitive to negative results.
 
