@@ -13,17 +13,17 @@ Given that only 20% of the data represents churned customers, achieving a recall
 
 Upon reviewing the fitted models, it appears that the random forest model performs the best in terms of achieving a balance between recall and precision. With a precision score of 0.88 on the positive class (churned customers) based on the training set, the model correctly identifies 88% of customers predicted to churn, and with a recall score of 0.53 on the positive class, the model is able to highlight 53% of all actual churned customers.
 
-## [Project 2: Netflix Sales Report (Tableau Dashboard) - Project Overview]
+## Project 2: Netflix Sales Report (Tableau Dashboard) - Project Overview
 ![image](https://github.com/arvs3k/arvs3k.github.io/blob/main/Netflix%20Sales%20Dashboard.png)
 
-## [Project 2: Stress, Anxiety & Depression Prediction - Project Overview](https://github.com/arvs3k/Stress-Anxiety-Depression)
+## [Project 3: Stress, Anxiety & Depression Prediction - Project Overview](https://github.com/arvs3k/Stress-Anxiety-Depression)
 * This research focused on detecting anxiety, depression and stress using the Depression, Anxiety and Stress Scale questionnaire. Data were collected from a total of 39775 participants via data hosted on OpenPsychometrics.org a nonprofit effort to educate the public about psychology and to collect data for psychological research. Their notes on the data collected in the codebook.txt and subsequently classified using five machine learning algorithms – namely Decision Tree, Random Forest Tree, Naïve Bayes, Support Vector Machine and KNN.
 * Engineered features by cleaning different majors, religion, status of people participated in the survey.
 * The f1 score measure was added, which helped identify the best accuracy model among the five applied algorithms as the Random Forest classifier. Furthermore, the specificity parameter revealed that the algorithms were also especially sensitive to negative results.
 
 ![image](https://user-images.githubusercontent.com/110792339/230479538-9c621a89-4275-4a18-8701-ade0ea86160a.png)
 
-## [Project 3: Global Development Initiative](https://github.com/arvs3k/Global-Development-Initiative)
+## [Project 4: Global Development Initiative](https://github.com/arvs3k/Global-Development-Initiative)
 * This database includes commitment information for over 1.5 million development finance activities funded between 1947 and 2013, covers 96 donors, and includes ODA, OOF flows, Equity Investments, and Export Credits where available.
 * Analyzed how donations changed over time between 1947 and 2013.
 * Examined how the identity of the donor and recipient is linked to the geographic location of each country.
