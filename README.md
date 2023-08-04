@@ -13,7 +13,7 @@ Given that only 20% of the data represents churned customers, achieving a recall
 
 Upon reviewing the fitted models, it appears that the random forest model performs the best in terms of achieving a balance between recall and precision. With a precision score of 0.88 on the positive class (churned customers) based on the training set, the model correctly identifies 88% of customers predicted to churn, and with a recall score of 0.53 on the positive class, the model is able to highlight 53% of all actual churned customers.
 
-## [Project 2: Netflix Sales Report (Tableau Dashboard) - Project Overview]
+## Project 2: Netflix Sales Report (Tableau Dashboard) - Project Overview
 
 
 
